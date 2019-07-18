@@ -29,3 +29,4 @@ re.findall(r'\b[A-Z][-_a-zA-Z]*','Hello iPython H-base BSD')
 
 作业 ：  1. 将 exec 练习熟悉一下
         2. 熟练记忆元字符使用
+"进程线程"
